@@ -5,6 +5,11 @@
 ### Demo
 https://note-two-mu.vercel.app/
 
+<br / >
+
+### History
+<a href="https://jyounge.notion.site/emoiton-note-react-da804bbb40644ae7b023d79d479f8700">🚜 작업일지 </a>
+
 <br />
 
 ### Stack
